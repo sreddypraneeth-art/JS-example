@@ -1,0 +1,13 @@
+<! DOCTYPE html>
+<html>
+    <head>
+        <title>console page </title>
+    </head>
+    <body>
+        <h2>welcome to the world of Java script</h2>
+
+        <script>
+            console.log("welcome to the world of javascript")
+            </script>
+            </body>
+            </html>
